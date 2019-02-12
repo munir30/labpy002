@@ -8,4 +8,5 @@ Untuk line 1 silahkan ketik seperti line dibawah ini
 ```
 print ("masukan nilai N: 5")
 ```
-M
+![1](https://user-images.githubusercontent.com/46584196/52624682-d9511600-2ee1-11e9-80fd-22b55f998eee.png)
+
