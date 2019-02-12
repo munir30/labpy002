@@ -8,3 +8,4 @@ Untuk line 1 silahkan ketik seperti line dibawah ini
 ```
 print ("masukan nilai N: 5")
 ```
+M
