@@ -12,7 +12,9 @@ BUKA SUBLIME Textnya
 
 Setelah dibuka akan muncul tampilan sublimenya seperti screen shoot di bawah ini
 
-![2](https://user-images.githubusercontent.com/46584196/52625653-0dc5d180-2ee4-11e9-8e35-7e7f181ff6fa.png)
+![1](https://user-images.githubusercontent.com/46584196/52686798-e6254680-2f81-11e9-9974-c4fe34bc9e4f.png)
+
+
 
 >STEP 3
 
