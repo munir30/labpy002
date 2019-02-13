@@ -61,13 +61,21 @@ STEP 10
 Untuk line 1 Sampai line 9 silahkan ketik seperti line dibawah ini
 
 print ("masukan nilai N: 5")
+
 import random
+
 jumlah = 5
+
 a = 0
+
 for x in range(jumlah):
+
 	i = random.uniform(.0,.5)
+	
 	a+=1
+	
 	print("data ke:",a,"==>", i)
+
 print ("selesai")
 
 di usahakan seperti screen shoot dibawah ini
@@ -145,13 +153,22 @@ Setelah save akan muncul tampilannya seperti screen shoot dibawah ini, setelah i
 Untuk line 1 Sampai line 8 silahkan ketik seperti line dibawah ini
 
 max=0
+
 while True:
+	
 	a=int(input("masukan bilangan="))
+	
 	if max < a:
-		max =a
-	if a==0:
+	
+	  max =a
+	 
+	 if a==0:
+
 		break
+
 print ("bilangan terbesar=",max)
+
+di usahakan seperti screen shoot dibawah ini
 
 ![10](https://user-images.githubusercontent.com/46584196/52713037-e4cb3c80-2fc8-11e9-8da8-4a9cf9191f91.png)
 
