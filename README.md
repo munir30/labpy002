@@ -14,7 +14,23 @@ Setelah dibuka akan muncul tampilan sublimenya seperti screen shoot di bawah ini
 
 ![2](https://user-images.githubusercontent.com/46584196/52625653-0dc5d180-2ee4-11e9-8e35-7e7f181ff6fa.png)
 
-STEP3
+>STEP 3
+
+Sebelum mengkoding buat folder baru terlebih dahulu untuk menyimpan latihan1.py contonya kalo saya membuat folder latihan 3
+
+![membuat folder terlebih dahulu](https://user-images.githubusercontent.com/46584196/52685687-4665b980-2f7d-11e9-862a-37ccfd076d17.png)
+
+STEP 4
+
+Setelah mambuat folder baru, kembali ke sublime lalu klik open folder
+
+![setelah membuka open folder akan muncul tampilan seperti ini](https://user-images.githubusercontent.com/46584196/52686138-fa1b7900-2f7e-11e9-90a7-be4a71b52f89.png)
+
+
+
+
+
+STEP
 
 Setelah itu seve aas.. atau kebih cepatnya ctrl+S
 
