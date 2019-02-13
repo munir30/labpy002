@@ -88,3 +88,8 @@ Setelah selesai mengkoding di sublime kemudian kodingan yang tadi di RUN, dengan
 
 ![11](https://user-images.githubusercontent.com/46584196/52711208-cc0c5800-2fc3-11e9-8309-4ded97b0af6f.png)
 
+>STEP 12
+
+Lalu akan muncul seperti screen shoot dibawah ini, kemudian ketik d: lalu enter kemudian cd latihan3 lalu enter kemudian latihan1.py lalu enter lagi kemudian program akan muncul
+
+![12](https://user-images.githubusercontent.com/46584196/52711674-fdd1ee80-2fc4-11e9-9562-036ced75dfaa.png)
