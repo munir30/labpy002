@@ -99,6 +99,7 @@ Lalu akan muncul seperti screen shoot dibawah ini, kemudian ketik d: lalu enter 
 
 
 # ALUR ALGORITMA latihan2.py
+Sebelum memulai membuat latihan2.py maka hal yang pertama harus membuka aplikasi sublime text untuk mengkodingnya
 
 BUKA SUBLIME Textnya
 
@@ -193,6 +194,7 @@ Lalu akan muncul seperti screen shoot dibawah ini, kemudian ketik d: lalu enter 
 
 
 # ALUR ALGORITMA program1.py
+Sebelum memulai membuat program1.py maka hal yang pertama harus membuka aplikasi sublime text untuk mengkodingnya
 
 BUKA SUBLIME Textnya
 
