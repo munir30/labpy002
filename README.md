@@ -82,4 +82,9 @@ di usahakan seperti screen shoot dibawah ini
 
 ![latihan1](https://user-images.githubusercontent.com/46584196/52688303-74043000-2f88-11e9-90fa-af99f49ce568.png)
 
+>STEP 11
+
+Setelah selesai mengkoding di sublime kemudian kodingan yang tadi di RUN, dengan cara mengetik Command Prompt di bagian search laptop/komputer anda lalu klik enter
+
+![11](https://user-images.githubusercontent.com/46584196/52711208-cc0c5800-2fc3-11e9-8309-4ded97b0af6f.png)
 
