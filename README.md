@@ -14,6 +14,11 @@ Setelah dibuka akan muncul tampilan sublimenya seperti screen shoot di bawah ini
 
 ![2](https://user-images.githubusercontent.com/46584196/52625653-0dc5d180-2ee4-11e9-8e35-7e7f181ff6fa.png)
 
+STEP3
+
+Setelah itu seve aas.. atau kebih cepatnya ctrl+S
+
+![3](https://user-images.githubusercontent.com/46584196/52681313-03501a00-2f6e-11e9-92d8-9d12afa88ab5.png)
 
 
 STEP
