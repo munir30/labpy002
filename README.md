@@ -59,25 +59,17 @@ Setelah save akan muncul tampilannya seperti screen shoot dibawah ini, setelah i
 STEP 10
 
 Untuk line 1 Sampai line 9 silahkan ketik seperti line dibawah ini
-```
-print ("masukan nilai N: 5") 
 
+print ("masukan nilai N: 5")
 import random
-
 jumlah = 5
-
 a = 0
-
 for x in range(jumlah):
-
-i = random.uniform(.0,.5)
-
-a+=1
-
-print("data ke:",a,"==>", i)
-
+	i = random.uniform(.0,.5)
+	a+=1
+	print("data ke:",a,"==>", i)
 print ("selesai")
-```
+
 di usahakan seperti screen shoot dibawah ini
 
 ![latihan1](https://user-images.githubusercontent.com/46584196/52688303-74043000-2f88-11e9-90fa-af99f49ce568.png)
@@ -93,3 +85,78 @@ Setelah selesai mengkoding di sublime kemudian kodingan yang tadi di RUN, dengan
 Lalu akan muncul seperti screen shoot dibawah ini, kemudian ketik d: lalu enter kemudian cd latihan3 lalu enter kemudian latihan1.py lalu enter lagi kemudian program akan muncul
 
 ![12](https://user-images.githubusercontent.com/46584196/52711674-fdd1ee80-2fc4-11e9-9562-036ced75dfaa.png)
+
+# ALUR ALGORITMA latihan2.py
+
+BUKA SUBLIME Textnya
+
+![1](https://user-images.githubusercontent.com/46584196/52624915-70b66900-2ee2-11e9-8b3b-8305617166b2.png)
+
+>STEP 2
+
+Setelah dibuka akan muncul tampilan sublimenya seperti screen shoot di bawah ini
+
+![1](https://user-images.githubusercontent.com/46584196/52686798-e6254680-2f81-11e9-9974-c4fe34bc9e4f.png)
+
+>STEP 3
+
+Sebelum mengkoding buat folder baru terlebih dahulu untuk menyimpan latihan1.py contonya kalo saya membuat folder latihan 3
+
+![membuat folder terlebih dahulu](https://user-images.githubusercontent.com/46584196/52685687-4665b980-2f7d-11e9-862a-37ccfd076d17.png)
+
+>STEP 4
+
+Setelah mambuat folder baru, kembali ke sublime lalu klik open folder
+
+![setelah membuka open folder akan muncul tampilan seperti ini](https://user-images.githubusercontent.com/46584196/52686138-fa1b7900-2f7e-11e9-90a7-be4a71b52f89.png)
+
+>STEP 5
+
+Setelah mengklik open folder akan muncul tampilan seperti screen shoot dibawah ini lalu klik select folder
+
+![akan muncul folder latihan3](https://user-images.githubusercontent.com/46584196/52686910-44eac000-2f82-11e9-8229-e907a7bc14a9.png)
+
+>STEP 6
+
+Setelah select folder akan muncul tampilan seperti screen shoot dibawah ini 
+
+![setelah slect akan muncul seprti ini](https://user-images.githubusercontent.com/46584196/52687232-90ea3480-2f83-11e9-90af-746a29eec2c2.png)
+
+>STEP 7
+
+Setelah itu seve aas.. atau kebih cepatnya ctrl+S
+
+![3](https://user-images.githubusercontent.com/46584196/52681313-03501a00-2f6e-11e9-92d8-9d12afa88ab5.png)
+
+>STEP 8
+
+Setelah save ass./ctrl+S akan muncul tampilannya seperti screen shoot dibawah ini, lalu ketik latihan2.py lalu save
+
+![lalu klik latihan2 py lalu save](https://user-images.githubusercontent.com/46584196/52712726-07108a80-2fc8-11e9-98dc-ff83e4ed3501.png)
+
+>STEP 9
+
+Setelah save akan muncul tampilannya seperti screen shoot dibawah ini, setelah itu baru dah memulai mengkoding programnya
+
+![9](https://user-images.githubusercontent.com/46584196/52712925-9c138380-2fc8-11e9-80b5-fe69ca9c693e.png)
+
+>STEP 10
+
+Untuk line 1 Sampai line 8 silahkan ketik seperti line dibawah ini
+
+max=0
+while True:
+	a=int(input("masukan bilangan="))
+	if max < a:
+		max =a
+	if a==0:
+		break
+print ("bilangan terbesar=",max)
+
+![10](https://user-images.githubusercontent.com/46584196/52713037-e4cb3c80-2fc8-11e9-8da8-4a9cf9191f91.png)
+
+>STEP 11
+
+![11](https://user-images.githubusercontent.com/46584196/52713094-03c9ce80-2fc9-11e9-9b29-0e5a4589dedc.png)
+
+>STEP 12
