@@ -50,8 +50,14 @@ Setelah save ass./ctrl+S akan muncul tampilannya seperti screen shoot dibawah in
 
 ![lalu klik latihan1 py lalu save](https://user-images.githubusercontent.com/46584196/52687475-add33780-2f84-11e9-8e5a-62325eb6a6f6.png)
 
+>STEP 9
 
-STEP
+Setelah save akan muncul tampilannya seperti screen shoot dibawah ini, setelah itu baru dah memulai mengkoding programnya
+
+![stelah save akan muncul spreti ini](https://user-images.githubusercontent.com/46584196/52687630-68fbd080-2f85-11e9-8bfe-67831dfdb05d.png)
+
+
+STEP 10
 Untuk line 1 silahkan ketik seperti line dibawah ini
 ```
 print ("masukan nilai N: 5")
