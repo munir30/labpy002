@@ -22,15 +22,17 @@ Sebelum mengkoding buat folder baru terlebih dahulu untuk menyimpan latihan1.py 
 
 ![membuat folder terlebih dahulu](https://user-images.githubusercontent.com/46584196/52685687-4665b980-2f7d-11e9-862a-37ccfd076d17.png)
 
-STEP 4
+>STEP 4
 
 Setelah mambuat folder baru, kembali ke sublime lalu klik open folder
 
 ![setelah membuka open folder akan muncul tampilan seperti ini](https://user-images.githubusercontent.com/46584196/52686138-fa1b7900-2f7e-11e9-90a7-be4a71b52f89.png)
 
+>STEP 5
 
+Setelah mengklik open folder akan muncul tampilan seperti screen shoot dibawah ini lalu klik select folder
 
-
+![akan muncul folder latihan3](https://user-images.githubusercontent.com/46584196/52686910-44eac000-2f82-11e9-8229-e907a7bc14a9.png)
 
 STEP
 
