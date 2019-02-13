@@ -56,11 +56,30 @@ Setelah save akan muncul tampilannya seperti screen shoot dibawah ini, setelah i
 
 ![stelah save akan muncul spreti ini](https://user-images.githubusercontent.com/46584196/52687630-68fbd080-2f85-11e9-8bfe-67831dfdb05d.png)
 
-
 STEP 10
-Untuk line 1 silahkan ketik seperti line dibawah ini
+
+Untuk line 1 Sampai line 9 silahkan ketik seperti line dibawah ini
 ```
-print ("masukan nilai N: 5")
+print ("masukan nilai N: 5") 
+
+import random
+
+jumlah = 5
+
+a = 0
+
+for x in range(jumlah):
+
+i = random.uniform(.0,.5)
+
+a+=1
+
+print("data ke:",a,"==>", i)
+
+print ("selesai")
 ```
-![1](https://user-images.githubusercontent.com/46584196/52624682-d9511600-2ee1-11e9-80fd-22b55f998eee.png)
+di usahakan seperti screen shoot dibawah ini
+
+![latihan1](https://user-images.githubusercontent.com/46584196/52688303-74043000-2f88-11e9-90fa-af99f49ce568.png)
+
 
