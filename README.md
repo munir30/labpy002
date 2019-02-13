@@ -14,8 +14,6 @@ Setelah dibuka akan muncul tampilan sublimenya seperti screen shoot di bawah ini
 
 ![1](https://user-images.githubusercontent.com/46584196/52686798-e6254680-2f81-11e9-9974-c4fe34bc9e4f.png)
 
-
-
 >STEP 3
 
 Sebelum mengkoding buat folder baru terlebih dahulu untuk menyimpan latihan1.py contonya kalo saya membuat folder latihan 3
@@ -34,11 +32,23 @@ Setelah mengklik open folder akan muncul tampilan seperti screen shoot dibawah i
 
 ![akan muncul folder latihan3](https://user-images.githubusercontent.com/46584196/52686910-44eac000-2f82-11e9-8229-e907a7bc14a9.png)
 
-STEP
+>STEP 6
+
+Setelah select folder akan muncul tampilan seperti screen shoot dibawah ini 
+
+![setelah slect akan muncul seprti ini](https://user-images.githubusercontent.com/46584196/52687232-90ea3480-2f83-11e9-90af-746a29eec2c2.png)
+
+>STEP 7
 
 Setelah itu seve aas.. atau kebih cepatnya ctrl+S
 
 ![3](https://user-images.githubusercontent.com/46584196/52681313-03501a00-2f6e-11e9-92d8-9d12afa88ab5.png)
+
+>STEP 8
+
+Setelah save ass./ctrl+S akan muncul tampilannya seperti screen shoot dibawah ini, lalu ketik latihan1.py lalu save
+
+![lalu klik latihan1 py lalu save](https://user-images.githubusercontent.com/46584196/52687475-add33780-2f84-11e9-8e5a-62325eb6a6f6.png)
 
 
 STEP
