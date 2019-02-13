@@ -157,6 +157,13 @@ print ("bilangan terbesar=",max)
 
 >STEP 11
 
+Setelah selesai mengkoding di sublime kemudian kodingan yang tadi di RUN, dengan cara mengetik Command Prompt di bagian search laptop/komputer anda lalu klik enter
+
+
 ![11](https://user-images.githubusercontent.com/46584196/52713094-03c9ce80-2fc9-11e9-9b29-0e5a4589dedc.png)
 
 >STEP 12
+
+Lalu akan muncul seperti screen shoot dibawah ini, kemudian ketik d: lalu enter kemudian cd latihan3 lalu enter kemudian latihan1.py lalu enter lagi kemudian program akan muncul
+
+![12](https://user-images.githubusercontent.com/46584196/52713564-345e3800-2fca-11e9-8e65-ec5a4a500a06.png)
