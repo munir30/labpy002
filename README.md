@@ -10,8 +10,9 @@ BUKA SUBLIME Textnya
 
 >STEP 2
 
-Setelah dibuka akan muncul tampilan sublimenya sperti screen shoot di bawah ini
+Setelah dibuka akan muncul tampilan sublimenya seperti screen shoot di bawah ini
 
+![2](https://user-images.githubusercontent.com/46584196/52625653-0dc5d180-2ee4-11e9-8e35-7e7f181ff6fa.png)
 
 
 
