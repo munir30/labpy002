@@ -113,7 +113,7 @@ Setelah dibuka akan muncul tampilan sublimenya seperti screen shoot di bawah ini
 
 >STEP 3
 
-Sebelum mengkoding buat folder baru terlebih dahulu untuk menyimpan latihan1.py contonya kalo saya membuat folder latihan 3
+Sebelum mengkoding buat folder baru terlebih dahulu untuk menyimpan latihan2.py contonya kalo saya membuat folder latihan 3
 
 ![membuat folder terlebih dahulu](https://user-images.githubusercontent.com/46584196/52685687-4665b980-2f7d-11e9-862a-37ccfd076d17.png)
 
@@ -208,7 +208,7 @@ Setelah dibuka akan muncul tampilan sublimenya seperti screen shoot di bawah ini
 
 >STEP 3
 
-Sebelum mengkoding buat folder baru terlebih dahulu untuk menyimpan latihan1.py contonya kalo saya membuat folder latihan 3
+Sebelum mengkoding buat folder baru terlebih dahulu untuk menyimpan program1.py contonya kalo saya membuat folder latihan 3
 
 ![membuat folder terlebih dahulu](https://user-images.githubusercontent.com/46584196/52685687-4665b980-2f7d-11e9-862a-37ccfd076d17.png)
 
